@@ -1,0 +1,5 @@
+export const ADD_BOOK = 'books/addBook'
+export const UPDATE_BOOK = 'books/updateBook'
+export const EDITE_MODE = 'books/editeMode'
+export const FETCH_BOOKS = 'books/fetch'
+export const DELETE_BOOK = 'books/delete'
